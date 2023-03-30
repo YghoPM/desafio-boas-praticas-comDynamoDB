@@ -1,0 +1,147 @@
+{
+    "Items": [
+        {
+            "AlbumTitle": {
+                "S": "Reaching Horizons"
+            },
+            "Artist": {
+                "S": "Angra"
+            },
+            "SongYear": {
+                "S": "1993"
+            },
+            "SongTitle": {
+                "S": "Carry On"
+            }
+        },
+        {
+            "AlbumTitle": {
+                "S": "Keeper of the Seven Keys PartII"
+            },
+            "Artist": {
+                "S": "Helloween"
+            },
+            "SongYear": {
+                "S": "1988"
+            },
+            "SongTitle": {
+                "S": "I Want Out"
+            }
+        },
+        {
+            "AlbumTitle": {
+                "S": "Nemesis"
+            },
+            "Artist": {
+                "S": "Stratovartius"
+            },
+            "SongYear": {
+                "S": "2013"
+            },
+            "SongTitle": {
+                "S": "Dragons"
+            }
+        },
+        {
+            "AlbumTitle": {
+                "S": "Brave New World"
+            },
+            "Artist": {
+                "S": "Iron Maiden"
+            },
+            "SongYear": {
+                "S": "2001"
+            },
+            "SongTitle": {
+                "S": "Blood Brothers"
+            }
+        },
+        {
+            "AlbumTitle": {
+                "S": "Fear of the Dark"
+            },
+            "Artist": {
+                "S": "Iron Maiden"
+            },
+            "SongYear": {
+                "S": "1992"
+            },
+            "SongTitle": {
+                "S": "Chains of Misery"
+            }
+        },
+        {
+            "AlbumTitle": {
+                "S": "Fear of the Dark Tour"
+            },
+            "Artist": {
+                "S": "Iron Maiden"
+            },
+            "SongYear": {
+                "S": "1992"
+            },
+            "SongTitle": {
+                "S": "Fear of the Dark"
+            }
+        },
+        {
+            "AlbumTitle": {
+                "S": "Fear of the Dark Live"
+            },
+            "Artist": {
+                "S": "Iron Maiden"
+            },
+            "SongYear": {
+                "S": "1992"
+            },
+            "SongTitle": {
+                "S": "Wasting Love"
+            }
+        },
+        {
+            "AlbumTitle": {
+                "S": "Fear of the Dark"
+            },
+            "Artist": {
+                "S": "Iron Maiden"
+            },
+            "SongYear": {
+                "S": "1992"
+            },
+            "SongTitle": {
+                "S": "Weekend Warrior"
+            }
+        },
+        {
+            "AlbumTitle": {
+                "S": "Ecliptica"
+            },
+            "Artist": {
+                "S": "Sonata Arctica"
+            },
+            "SongYear": {
+                "S": "1999"
+            },
+            "SongTitle": {
+                "S": "Blank File"
+            }
+        },
+        {
+            "AlbumTitle": {
+                "S": "Pariah's Child"
+            },
+            "Artist": {
+                "S": "Sonata Arctica"
+            },
+            "SongYear": {
+                "S": "2014"
+            },
+            "SongTitle": {
+                "S": "Cloud Factory"
+            }
+        }
+    ],
+    "Count": 10,
+    "ScannedCount": 10,
+    "ConsumedCapacity": null
+}
